@@ -1,6 +1,0 @@
-name = "telegram-openrouter-ai"
-main = "src/index.js"
-compatibility_date = "2026-09-13"
-
-[vars]
-OPENROUTER_MODEL = "openrouter/free"
