@@ -16,4 +16,4 @@ id = "573533518d33421ab8bb31d73e332e58"
 #
 # Vars (safe to keep here, non-secret):
 [vars]
-BOT_OWNER_ID = "0"  # your numeric Telegram user ID, for /admin-only global commands
+BOT_OWNER_ID = "8012378900"  # your numeric Telegram user ID, for /admin-only global commands
