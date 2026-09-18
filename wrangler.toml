@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 # Then paste the returned id below.
 [[kv_namespaces]]
 binding = "BOT_KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "573533518d33421ab8bb31d73e332e58"
 
 # Secrets (set with `wrangler secret put NAME`, never hardcode):
 #   wrangler secret put BOT_TOKEN
